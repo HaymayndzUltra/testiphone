@@ -1,0 +1,15 @@
+This is a placeholder zip file for the iPhone framework.
+In a real implementation, this would contain:
+- iOS framework binaries
+- Configuration files
+- Documentation
+- Sample code
+- Dependencies
+
+To create the actual framework package, you would need to:
+1. Build the iOS framework using Xcode
+2. Include necessary libraries and dependencies
+3. Add configuration files
+4. Package everything into a zip archive
+
+This placeholder serves as a marker for where the real framework package should be located.
